@@ -1,0 +1,17 @@
+<map id="src/libcore/oonf_subsystem.c" name="src/libcore/oonf_subsystem.c">
+<area shape="rect" id="node6" href="$autobuf_8h.html" title="oonf/libcommon/autobuf.h" alt="" coords="1306,319,1478,345"/>
+<area shape="rect" id="node11" href="$oonf_8h.html" title="oonf/oonf.h" alt="" coords="1161,543,1247,569"/>
+<area shape="rect" id="node15" href="$avl_8h.html" title="oonf/libcommon/avl.h" alt="" coords="229,319,376,345"/>
+<area shape="rect" id="node17" href="$list_8h.html" title="oonf/libcommon/list.h" alt="" coords="204,393,351,420"/>
+<area shape="rect" id="node18" href="$avl__comp_8h.html" title="oonf/libcommon/avl\l_comp.h" alt="" coords="1411,155,1546,196"/>
+<area shape="rect" id="node24" href="$template_8h.html" title="oonf/libcommon/template.h" alt="" coords="1563,244,1741,271"/>
+<area shape="rect" id="node25" href="$cfg__schema_8h.html" title="oonf/libconfig/cfg\l_schema.h" alt="" coords="785,155,906,196"/>
+<area shape="rect" id="node27" href="$oonf__libdata_8h.html" title="oonf/libcore/oonf_libdata.h" alt="" coords="1757,319,1931,345"/>
+<area shape="rect" id="node28" href="$oonf__logging_8h.html" title="oonf/libcore/oonf_logging.h" alt="" coords="1310,244,1487,271"/>
+<area shape="rect" id="node30" href="$oonf__subsystem_8h.html" title="oonf/libcore/oonf_subsystem.h" alt="" coords="1071,80,1271,107"/>
+<area shape="rect" id="node8" href="$string_8h.html" title="string.h" alt="" coords="1005,393,1070,420"/>
+<area shape="rect" id="node16" href="$container__of_8h.html" title="oonf/libcommon/container_of.h" alt="" coords="49,468,249,495"/>
+<area shape="rect" id="node19" href="$netaddr_8h.html" title="oonf/libcommon/netaddr.h" alt="" coords="961,244,1133,271"/>
+<area shape="rect" id="node26" href="$cfg__db_8h.html" title="oonf/libconfig/cfg_db.h" alt="" coords="502,244,655,271"/>
+<area shape="rect" id="node29" href="$oonf__appdata_8h.html" title="oonf/libcore/oonf_appdata.h" alt="" coords="1346,393,1529,420"/>
+</map>

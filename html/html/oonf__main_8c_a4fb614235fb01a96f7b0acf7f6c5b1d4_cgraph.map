@@ -1,0 +1,5 @@
+<map id="oonf_main_shall_stop_scheduler" name="oonf_main_shall_stop_scheduler">
+<area shape="rect" id="node2" href="$oonf__cfg_8c.html#a43f40b10788c80d1ba84e7afdcac3032" title="oonf_cfg_is_commit_set" alt="" coords="201,5,365,32"/>
+<area shape="rect" id="node3" href="$oonf__cfg_8c.html#a676f0ca9a6218d5528d51ec32390c794" title="oonf_cfg_is_reload_set" alt="" coords="205,56,361,83"/>
+<area shape="rect" id="node4" href="$oonf__cfg_8c.html#a5f8275ae31b3381d28d1cc7367a75537" title="oonf_cfg_is_running" alt="" coords="214,107,353,133"/>
+</map>

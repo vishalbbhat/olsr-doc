@@ -1,0 +1,4 @@
+<map id="test_message" name="test_message">
+<area shape="rect" id="node2" href="$structtest__tlv.html" title="test_tlv" alt="" coords="25,5,90,32"/>
+<area shape="rect" id="node3" href="$structtest__address.html" title="test_address" alt="" coords="86,95,183,121"/>
+</map>

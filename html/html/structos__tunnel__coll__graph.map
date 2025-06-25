@@ -1,0 +1,7 @@
+<map id="os_tunnel" name="os_tunnel">
+<area shape="rect" id="node2" href="$structos__tunnel__parameter.html" title="os_tunnel_parameter" alt="" coords="5,121,148,147"/>
+<area shape="rect" id="node3" href="$structnetaddr.html" title="netaddr" alt="" coords="44,7,109,33"/>
+<area shape="rect" id="node4" href="$structavl__node.html" title="avl_node" alt="" coords="173,121,247,147"/>
+<area shape="rect" id="node5" href="$structlist__entity.html" title="list_entity" alt="" coords="171,7,249,33"/>
+<area shape="rect" id="node6" href="$structos__tunnel__internal.html" title="os_tunnel_internal" alt="" coords="333,121,460,147"/>
+</map>

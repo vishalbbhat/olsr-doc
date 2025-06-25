@@ -1,0 +1,5 @@
+<map id="cfg_schema_handle_db_startup_changes" name="cfg_schema_handle_db_startup_changes">
+<area shape="rect" id="node2" href="$cfg__db_8c.html#af51a7d9539bc5534ada61a0d4a73f0d1" title="cfg_db_add" alt="" coords="212,31,301,57"/>
+<area shape="rect" id="node3" href="$avl_8c.html#a0f1e0ca238ebd0c71f4898f900e0840e" title="avl_init" alt="" coords="380,5,443,32"/>
+<area shape="rect" id="node4" href="$cfg_8c.html#a90bfe56e0577e4159b8f5afa97510c2e" title="cfg_avlcmp_keys" alt="" coords="349,56,473,83"/>
+</map>

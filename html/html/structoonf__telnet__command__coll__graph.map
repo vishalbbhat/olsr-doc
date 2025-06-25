@@ -1,0 +1,6 @@
+<map id="oonf_telnet_command" name="oonf_telnet_command">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="7,121,82,147"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="5,7,84,33"/>
+<area shape="rect" id="node4" href="$structnetaddr__acl.html" title="netaddr_acl" alt="" coords="168,121,257,147"/>
+<area shape="rect" id="node5" href="$structnetaddr.html" title="netaddr" alt="" coords="180,7,245,33"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="olsrv2_tc_edge_remove" name="olsrv2_tc_edge_remove">
+<area shape="rect" id="node2" href="$olsrv2__routing_8c.html#aefa2a72892145b6f380c5abec44eb24e" title="olsrv2_routing_domain\l_changed" alt="" coords="213,35,365,76"/>
+<area shape="rect" id="node3" href="$olsrv2__routing_8c.html#ad0bae4139bf144cfad0a63f7edbc3383" title="olsrv2_routing_trigger\l_update" alt="" coords="414,5,561,47"/>
+<area shape="rect" id="node4" href="$nhdp__domain_8c.html#acce615df77e54590cbff812efc40f8b7" title="nhdp_domain_get_list" alt="" coords="413,71,561,98"/>
+</map>

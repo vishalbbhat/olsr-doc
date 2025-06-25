@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['isonumber_5ffrom_5fs64',['isonumber_from_s64',['../isonumber_8c.html#a600fb1fb00b2e729b64d093c3e8eb425',1,'isonumber_from_s64(struct isonumber_str *out, int64_t number, const char *unit, uint64_t scaling, bool raw):&#160;isonumber.c'],['../isonumber_8h.html#a3d82c582bb687176c4bbbc16cc3ed181',1,'isonumber_from_s64(struct isonumber_str *out, int64_t number, const char *unit, uint64_t scaling, bool raw):&#160;isonumber.c']]],
+  ['isonumber_5ffrom_5fu64',['isonumber_from_u64',['../isonumber_8c.html#a9d0b47790b9876bdeffb4f934c4a7652',1,'isonumber_from_u64(struct isonumber_str *out, uint64_t number, const char *unit, uint64_t scaling, bool raw):&#160;isonumber.c'],['../isonumber_8h.html#a283515ab6574e37c46f567944b2099c6',1,'isonumber_from_u64(struct isonumber_str *out, uint64_t number, const char *unit, uint64_t scaling, bool raw):&#160;isonumber.c']]],
+  ['isonumber_5fto_5fs64',['isonumber_to_s64',['../isonumber_8c.html#a9fd09e20d3851428e0d04b2a78e58839',1,'isonumber_to_s64(int64_t *dst, const char *iso, uint64_t scaling):&#160;isonumber.c'],['../isonumber_8h.html#a29129c3e362ead70cd67e1319680b785',1,'isonumber_to_s64(int64_t *dst, const char *iso, uint64_t scaling):&#160;isonumber.c']]],
+  ['isonumber_5fto_5fu64',['isonumber_to_u64',['../isonumber_8c.html#a2f618fcb4abb15818da8eedc21c1b7e1',1,'isonumber_to_u64(uint64_t *dst, const char *iso, uint64_t scaling):&#160;isonumber.c'],['../isonumber_8h.html#a13d273e28a84c78b1edfa903effae641',1,'isonumber_to_u64(uint64_t *dst, const char *iso, uint64_t scaling):&#160;isonumber.c']]]
+];

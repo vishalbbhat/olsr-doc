@@ -1,0 +1,7 @@
+<map id="oonf_rfc5444_reconfigure_interface" name="oonf_rfc5444_reconfigure_interface">
+<area shape="rect" id="node2" href="$oonf__packet__socket_8c.html#a1a0c91dcadc425567cb8cf9df380e040" title="oonf_packet_copy_managed\l_config" alt="" coords="221,35,409,76"/>
+<area shape="rect" id="node6" href="$string_8c.html#a45df82f2cd20805046d362001c3598b3" title="strscpy" alt="" coords="283,101,348,127"/>
+<area shape="rect" id="node3" href="$oonf__packet__socket_8c.html#aa92cf12e3d85897327d0d2d2a6a23ec7" title="oonf_packet_free_managed\l_config" alt="" coords="457,5,640,47"/>
+<area shape="rect" id="node5" href="$netaddr__acl_8c.html#a126c1e86e142ffc60fee6ed83c1e9e9b" title="netaddr_acl_copy" alt="" coords="487,71,611,98"/>
+<area shape="rect" id="node4" href="$netaddr__acl_8c.html#acd4e541c6b3b8a6ed754e6f12bdbec96" title="netaddr_acl_remove" alt="" coords="688,42,827,69"/>
+</map>

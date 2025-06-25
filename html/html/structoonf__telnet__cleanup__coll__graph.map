@@ -1,0 +1,9 @@
+<map id="oonf_telnet_cleanup" name="oonf_telnet_cleanup">
+<area shape="rect" id="node2" href="$structlist__entity.html" title="list_entity" alt="" coords="227,7,306,33"/>
+<area shape="rect" id="node3" href="$structoonf__telnet__data.html" title="oonf_telnet_data" alt="" coords="133,293,251,320"/>
+<area shape="rect" id="node6" href="$structavl__node.html" title="avl_node" alt="" coords="321,106,396,133"/>
+<area shape="rect" id="node7" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="501,293,622,320"/>
+<area shape="rect" id="node4" href="$structautobuf.html" title="autobuf" alt="" coords="162,204,227,231"/>
+<area shape="rect" id="node5" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="345,204,484,231"/>
+<area shape="rect" id="node8" href="$structnetaddr.html" title="netaddr" alt="" coords="251,204,317,231"/>
+</map>

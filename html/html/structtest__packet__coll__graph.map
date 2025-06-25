@@ -1,0 +1,7 @@
+<map id="test_packet" name="test_packet">
+<area shape="rect" id="node2" href="$structtest__tlv.html" title="test_tlv" alt="" coords="5,5,71,32"/>
+<area shape="rect" id="node5" href="$structtest__message.html" title="test_message" alt="" coords="34,195,138,222"/>
+<area shape="rect" id="node6" href="$structtest__address.html" title="test_address" alt="" coords="88,96,185,123"/>
+<area shape="rect" id="node3" href="$structavl__node.html" title="avl_node" alt="" coords="171,195,246,222"/>
+<area shape="rect" id="node4" href="$structlist__entity.html" title="list_entity" alt="" coords="209,96,288,123"/>
+</map>

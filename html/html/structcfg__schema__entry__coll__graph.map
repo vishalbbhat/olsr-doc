@@ -1,0 +1,12 @@
+<map id="cfg_schema_entry" name="cfg_schema_entry">
+<area shape="rect" id="node6" href="$structcfg__schema__section.html" title="cfg_schema_section" alt="" coords="320,709,463,736"/>
+<area shape="rect" id="node2" href="$structcfg__schema__entry__key.html" title="cfg_schema_entry_key" alt="" coords="135,487,293,513"/>
+<area shape="rect" id="node3" href="$structavl__node.html" title="avl_node" alt="" coords="525,106,599,133"/>
+<area shape="rect" id="node7" href="$structcfg__named__section.html" title="cfg_named_section" alt="" coords="481,605,616,632"/>
+<area shape="rect" id="node8" href="$structcfg__section__type.html" title="cfg_section_type" alt="" coords="631,487,752,513"/>
+<area shape="rect" id="node9" href="$structavl__tree.html" title="avl_tree" alt="" coords="657,204,725,231"/>
+<area shape="rect" id="node4" href="$structlist__entity.html" title="list_entity" alt="" coords="803,7,881,33"/>
+<area shape="rect" id="node11" href="$structcfg__schema.html" title="cfg_schema" alt="" coords="794,308,887,335"/>
+<area shape="rect" id="node5" href="$structconst__strarray.html" title="const_strarray" alt="" coords="5,487,111,513"/>
+<area shape="rect" id="node10" href="$structcfg__db.html" title="cfg_db" alt="" coords="698,397,759,424"/>
+</map>

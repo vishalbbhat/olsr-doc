@@ -1,0 +1,13 @@
+<map id="netaddr_acl_remove" name="netaddr_acl_remove">
+<area shape="rect" id="node2" href="$oonf__packet__socket_8h.html#a3a143b414d7dda656bc15231d3f10529" title="oonf_packet_free_managed\l_config" alt="" coords="192,5,375,47"/>
+<area shape="rect" id="node7" href="$oonf__stream__socket_8h.html#a6053992d5f827cf95b593eb87df928b1" title="oonf_stream_free_managed\l_config" alt="" coords="192,123,375,164"/>
+<area shape="rect" id="node9" href="$netaddr__acl_8h.html#ae67d8a75c9981c97a9be587fe3123c8a" title="netaddr_acl_from_strarray" alt="" coords="197,189,370,215"/>
+<area shape="rect" id="node10" href="$cfg__tobin_8h.html#a2ee6f7e365dad9fa014d8f75ef1d09c1" title="cfg_tobin_acl" alt="" coords="468,214,567,241"/>
+<area shape="rect" id="node12" href="$netaddr__acl_8h.html#a2bc3db1a9ac6388777853ca2278c1488" title="netaddr_acl_copy" alt="" coords="221,71,345,98"/>
+<area shape="rect" id="node3" href="$oonf__packet__socket_8h.html#a4c3b6fb2af78460fcb380112ecb7a9ff" title="oonf_packet_copy_managed\l_config" alt="" coords="423,57,611,99"/>
+<area shape="rect" id="node6" href="$dlep__interface_8h.html#abc269d9df0e370d48523cbc3f8e10237" title="dlep_if_remove" alt="" coords="462,6,573,33"/>
+<area shape="rect" id="node4" href="$oonf__rfc5444_8h.html#a84abd65e6dcfd289565ba20be96d8b34" title="oonf_rfc5444_reconfigure\l_interface" alt="" coords="660,57,828,99"/>
+<area shape="rect" id="node5" href="$oonf__rfc5444_8h.html#adb731f4ff93ba34b0d0be697fde8bdbd" title="oonf_rfc5444_reconfigure\l_protocol" alt="" coords="876,57,1044,99"/>
+<area shape="rect" id="node8" href="$oonf__stream__socket_8h.html#a715667f7bc15ab0a83bb06ff4418e0b3" title="oonf_stream_copy_managed\l_config" alt="" coords="423,123,612,164"/>
+<area shape="rect" id="node11" href="$cfg__schema_8h.html#a9a751ed4bb3a066b2471462b001725a2" title="cfg_schema_tobin_acl" alt="" coords="668,214,820,241"/>
+</map>

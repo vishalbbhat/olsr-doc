@@ -1,0 +1,10 @@
+<map id="os_interface" name="os_interface">
+<area shape="rect" id="node2" href="$structos__interface__flags.html" title="os_interface_flags" alt="" coords="345,8,473,35"/>
+<area shape="rect" id="node3" href="$structavl__node.html" title="avl_node" alt="" coords="153,240,228,267"/>
+<area shape="rect" id="node5" href="$structavl__tree.html" title="avl_tree" alt="" coords="375,188,443,215"/>
+<area shape="rect" id="node6" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="339,396,478,423"/>
+<area shape="rect" id="node4" href="$structlist__entity.html" title="list_entity" alt="" coords="5,144,84,171"/>
+<area shape="rect" id="node7" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="641,461,763,488"/>
+<area shape="rect" id="node8" href="$structnetaddr.html" title="netaddr" alt="" coords="376,277,441,304"/>
+<area shape="rect" id="node9" href="$structos__interface__internal.html" title="os_interface_internal" alt="" coords="337,328,480,355"/>
+</map>

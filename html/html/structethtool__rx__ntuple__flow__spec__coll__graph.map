@@ -1,0 +1,5 @@
+<map id="ethtool_rx_ntuple_flow_spec" name="ethtool_rx_ntuple_flow_spec">
+<area shape="rect" id="node2" href="$structethtool__ah__espip4__spec.html" title="ethtool_ah_espip4_spec" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$structethtool__tcpip4__spec.html" title="ethtool_tcpip4_spec" alt="" coords="192,5,331,32"/>
+<area shape="rect" id="node4" href="$structethtool__usrip4__spec.html" title="ethtool_usrip4_spec" alt="" coords="355,5,493,32"/>
+</map>

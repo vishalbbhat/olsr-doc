@@ -1,0 +1,17 @@
+<map id="oonf_layer2_peer_address" name="oonf_layer2_peer_address">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="646,106,721,133"/>
+<area shape="rect" id="node4" href="$structoonf__layer2__origin.html" title="oonf_layer2_origin" alt="" coords="1012,352,1139,379"/>
+<area shape="rect" id="node5" href="$structoonf__layer2__net.html" title="oonf_layer2_net" alt="" coords="549,575,663,601"/>
+<area shape="rect" id="node10" href="$structavl__tree.html" title="avl_tree" alt="" coords="564,204,632,231"/>
+<area shape="rect" id="node12" href="$structos__interface.html" title="os_interface" alt="" coords="387,352,481,379"/>
+<area shape="rect" id="node14" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="959,204,1098,231"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="525,7,604,33"/>
+<area shape="rect" id="node11" href="$structos__interface__listener.html" title="os_interface_listener" alt="" coords="363,471,505,497"/>
+<area shape="rect" id="node15" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="1163,352,1284,379"/>
+<area shape="rect" id="node6" href="$structoonf__layer2__data.html" title="oonf_layer2_data" alt="" coords="796,471,917,497"/>
+<area shape="rect" id="node7" href="$unionoonf__layer2__value.html" title="oonf_layer2_value" alt="" coords="687,352,813,379"/>
+<area shape="rect" id="node8" href="$structnetaddr.html" title="netaddr" alt="" coords="673,204,739,231"/>
+<area shape="rect" id="node9" href="$structoonf__layer2__metadata.html" title="oonf_layer2_metadata" alt="" coords="837,352,988,379"/>
+<area shape="rect" id="node13" href="$structos__interface__flags.html" title="os_interface_flags" alt="" coords="155,204,283,231"/>
+<area shape="rect" id="node16" href="$structos__interface__internal.html" title="os_interface_internal" alt="" coords="308,204,451,231"/>
+</map>

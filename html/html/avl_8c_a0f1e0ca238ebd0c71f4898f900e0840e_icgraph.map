@@ -1,0 +1,18 @@
+<map id="avl_init" name="avl_init">
+<area shape="rect" id="node2" href="$oonf__duplicate__set_8h.html#abda162a4f537b9186800d01e97aaf80f" title="oonf_duplicate_set_add" alt="" coords="118,5,277,32"/>
+<area shape="rect" id="node3" href="$dlep__extension_8h.html#a16b0ad277de4ab45d059b5ae1995ad60" title="dlep_extension_init" alt="" coords="131,56,264,83"/>
+<area shape="rect" id="node6" href="$cfg_8h.html#a0edc23e6767c9ab0cef842e1f7841dc1" title="cfg_add" alt="" coords="163,107,231,133"/>
+<area shape="rect" id="node8" href="$cfg__db_8h.html#a0ce18be4f8b7234b7905dc3855b85589" title="cfg_db_add" alt="" coords="153,157,242,184"/>
+<area shape="rect" id="node10" href="$neighbor-graph_8h.html#abf3949aafc21bc6f2b040114227375fa" title="mpr_init_neighbor_graph" alt="" coords="116,208,279,235"/>
+<area shape="rect" id="node12" href="$nhdp__db_8h.html#a41f9c04c50a9f8253dfd5c14700d03a9" title="nhdp_db_init" alt="" coords="150,259,245,285"/>
+<area shape="rect" id="node13" href="$nhdp__db_8h.html#ad341ab7a5dedd83fd15e0e0af0244acf" title="nhdp_db_neighbor_add" alt="" coords="120,309,275,336"/>
+<area shape="rect" id="node14" href="$nhdp__interfaces_8h.html#a4a6495a47674c0573e0fed8b7d720955" title="nhdp_interfaces_init" alt="" coords="128,360,267,387"/>
+<area shape="rect" id="node15" href="$olsrv2__lan_8h.html#a3d9bd32dd3a37dcbbc4694dc72249f1c" title="olsrv2_lan_init" alt="" coords="145,411,250,437"/>
+<area shape="rect" id="node16" href="$olsrv2__originator_8h.html#a82d9425a87752608fe9131faeb9d8d87" title="olsrv2_originator_init" alt="" coords="127,461,268,488"/>
+<area shape="rect" id="node17" href="$olsrv2__tc_8h.html#acb8b12b171d9a93bad613df611d4b18e" title="olsrv2_tc_init" alt="" coords="148,512,247,539"/>
+<area shape="rect" id="node4" href="$dlep__radio__interface_8h.html#a1dec57cc2ee5fe9614fc19fbd4400460" title="dlep_radio_interface_init" alt="" coords="329,5,491,32"/>
+<area shape="rect" id="node5" href="$dlep__router__interface_8h.html#a880e1ad49aa5691c8678f95ff5ab9621" title="dlep_router_interface_init" alt="" coords="327,56,493,83"/>
+<area shape="rect" id="node7" href="$test__config__cmd_8c.html#a5d6593faf282c1f0cec0d54c63dba874" title="main" alt="" coords="385,107,435,133"/>
+<area shape="rect" id="node9" href="$cfg__schema_8h.html#a914b6e7c64862ab04c421a9660701cbb" title="cfg_schema_handle_db\l_startup_changes" alt="" coords="331,158,489,199"/>
+<area shape="rect" id="node11" href="$neighbor-graph-flooding_8h.html#a4f72c5dd647ff97fe54b8c16ba5b1dfe" title="mpr_calculate_neighbor\l_graph_flooding" alt="" coords="331,223,489,265"/>
+</map>

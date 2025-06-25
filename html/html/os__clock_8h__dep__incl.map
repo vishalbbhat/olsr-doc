@@ -1,0 +1,6 @@
+<map id="include/oonf/base/os_clock.h" name="include/oonf/base/os_clock.h">
+<area shape="rect" id="node2" href="$oonf__clock_8c.html" title="src/base/oonf_clock.c" alt="" coords="5,102,156,129"/>
+<area shape="rect" id="node3" href="$oonf__socket_8c.html" title="src/base/oonf_socket.c" alt="" coords="180,102,339,129"/>
+<area shape="rect" id="node4" href="$oonf__timer_8c.html" title="src/base/oonf_timer.c" alt="" coords="363,102,511,129"/>
+<area shape="rect" id="node5" href="$os__clock__linux_8c.html" title="src/base/os_linux/os\l_clock_linux.c" alt="" coords="535,95,677,136"/>
+</map>

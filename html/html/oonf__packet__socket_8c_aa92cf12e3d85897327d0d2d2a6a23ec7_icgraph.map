@@ -1,0 +1,6 @@
+<map id="oonf_packet_free_managed_config" name="oonf_packet_free_managed_config">
+<area shape="rect" id="node2" href="$oonf__packet__socket_8h.html#a4c3b6fb2af78460fcb380112ecb7a9ff" title="oonf_packet_copy_managed\l_config" alt="" coords="236,5,424,47"/>
+<area shape="rect" id="node5" href="$dlep__interface_8h.html#abc269d9df0e370d48523cbc3f8e10237" title="dlep_if_remove" alt="" coords="275,71,385,98"/>
+<area shape="rect" id="node3" href="$oonf__rfc5444_8h.html#a84abd65e6dcfd289565ba20be96d8b34" title="oonf_rfc5444_reconfigure\l_interface" alt="" coords="472,5,640,47"/>
+<area shape="rect" id="node4" href="$oonf__rfc5444_8h.html#adb731f4ff93ba34b0d0be697fde8bdbd" title="oonf_rfc5444_reconfigure\l_protocol" alt="" coords="688,5,856,47"/>
+</map>

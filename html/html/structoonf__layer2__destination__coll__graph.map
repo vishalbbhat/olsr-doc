@@ -1,0 +1,19 @@
+<map id="oonf_layer2_destination" name="oonf_layer2_destination">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="347,106,421,133"/>
+<area shape="rect" id="node4" href="$structoonf__layer2__neigh.html" title="oonf_layer2_neigh" alt="" coords="581,667,707,693"/>
+<area shape="rect" id="node8" href="$structoonf__layer2__origin.html" title="oonf_layer2_origin" alt="" coords="263,352,390,379"/>
+<area shape="rect" id="node11" href="$structavl__tree.html" title="avl_tree" alt="" coords="519,204,587,231"/>
+<area shape="rect" id="node12" href="$structoonf__layer2__net.html" title="oonf_layer2_net" alt="" coords="697,577,812,604"/>
+<area shape="rect" id="node14" href="$structos__interface.html" title="os_interface" alt="" coords="875,352,968,379"/>
+<area shape="rect" id="node16" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="124,204,263,231"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="514,7,593,33"/>
+<area shape="rect" id="node13" href="$structos__interface__listener.html" title="os_interface_listener" alt="" coords="886,472,1029,499"/>
+<area shape="rect" id="node17" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="43,352,165,379"/>
+<area shape="rect" id="node5" href="$structoonf__layer2__data.html" title="oonf_layer2_data" alt="" coords="650,472,771,499"/>
+<area shape="rect" id="node6" href="$unionoonf__layer2__value.html" title="oonf_layer2_value" alt="" coords="1017,352,1143,379"/>
+<area shape="rect" id="node7" href="$structnetaddr.html" title="netaddr" alt="" coords="1183,204,1249,231"/>
+<area shape="rect" id="node10" href="$structoonf__layer2__neigh__key.html" title="oonf_layer2_neigh_key" alt="" coords="1183,411,1337,438"/>
+<area shape="rect" id="node9" href="$structoonf__layer2__metadata.html" title="oonf_layer2_metadata" alt="" coords="554,352,705,379"/>
+<area shape="rect" id="node15" href="$structos__interface__flags.html" title="os_interface_flags" alt="" coords="808,204,936,231"/>
+<area shape="rect" id="node18" href="$structos__interface__internal.html" title="os_interface_internal" alt="" coords="961,204,1103,231"/>
+</map>

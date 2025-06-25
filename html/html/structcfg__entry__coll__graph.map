@@ -1,0 +1,10 @@
+<map id="cfg_entry" name="cfg_entry">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="96,106,171,133"/>
+<area shape="rect" id="node5" href="$structcfg__named__section.html" title="cfg_named_section" alt="" coords="135,576,270,603"/>
+<area shape="rect" id="node6" href="$structcfg__section__type.html" title="cfg_section_type" alt="" coords="143,487,265,513"/>
+<area shape="rect" id="node7" href="$structavl__tree.html" title="avl_tree" alt="" coords="242,204,310,231"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="241,7,319,33"/>
+<area shape="rect" id="node9" href="$structcfg__schema.html" title="cfg_schema" alt="" coords="372,308,465,335"/>
+<area shape="rect" id="node4" href="$structstrarray.html" title="strarray" alt="" coords="44,576,111,603"/>
+<area shape="rect" id="node8" href="$structcfg__db.html" title="cfg_db" alt="" coords="243,397,304,424"/>
+</map>

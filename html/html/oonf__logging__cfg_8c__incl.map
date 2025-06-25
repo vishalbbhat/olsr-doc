@@ -1,0 +1,20 @@
+<map id="src/libcore/oonf_logging_cfg.c" name="src/libcore/oonf_logging_cfg.c">
+<area shape="rect" id="node5" href="$string_8h.html" title="string.h" alt="" coords="464,572,529,599"/>
+<area shape="rect" id="node8" href="$oonf_8h.html" title="oonf/oonf.h" alt="" coords="1599,647,1685,673"/>
+<area shape="rect" id="node11" href="$cfg_8h.html" title="oonf/libconfig/cfg.h" alt="" coords="1644,95,1776,121"/>
+<area shape="rect" id="node19" href="$cfg__db_8h.html" title="oonf/libconfig/cfg_db.h" alt="" coords="1168,259,1321,285"/>
+<area shape="rect" id="node20" href="$cfg__schema_8h.html" title="oonf/libconfig/cfg\l_schema.h" alt="" coords="805,333,927,375"/>
+<area shape="rect" id="node27" href="$oonf__cfg_8h.html" title="oonf/libcore/oonf_cfg.h" alt="" coords="837,177,991,203"/>
+<area shape="rect" id="node29" href="$oonf__logging_8h.html" title="oonf/libcore/oonf_logging.h" alt="" coords="1467,423,1644,449"/>
+<area shape="rect" id="node32" href="$oonf__logging__cfg_8h.html" title="oonf/libcore/oonf_logging\l_cfg.h" alt="" coords="1161,169,1328,211"/>
+<area shape="rect" id="node12" href="$autobuf_8h.html" title="oonf/libcommon/autobuf.h" alt="" coords="1193,497,1365,524"/>
+<area shape="rect" id="node15" href="$avl_8h.html" title="oonf/libcommon/avl.h" alt="" coords="1830,423,1977,449"/>
+<area shape="rect" id="node18" href="$cfg__cmd_8h.html" title="oonf/libconfig/cfg\l_cmd.h" alt="" coords="1455,169,1576,211"/>
+<area shape="rect" id="node26" href="$cfg__io_8h.html" title="oonf/libconfig/cfg_io.h" alt="" coords="1705,341,1854,367"/>
+<area shape="rect" id="node16" href="$container__of_8h.html" title="oonf/libcommon/container_of.h" alt="" coords="2007,572,2207,599"/>
+<area shape="rect" id="node17" href="$list_8h.html" title="oonf/libcommon/list.h" alt="" coords="1845,497,1991,524"/>
+<area shape="rect" id="node24" href="$netaddr_8h.html" title="oonf/libcommon/netaddr.h" alt="" coords="605,423,777,449"/>
+<area shape="rect" id="node28" href="$oonf__subsystem_8h.html" title="oonf/libcore/oonf_subsystem.h" alt="" coords="294,259,494,285"/>
+<area shape="rect" id="node30" href="$oonf__appdata_8h.html" title="oonf/libcore/oonf_appdata.h" alt="" coords="1449,572,1632,599"/>
+<area shape="rect" id="node31" href="$oonf__libdata_8h.html" title="oonf/libcore/oonf_libdata.h" alt="" coords="1656,572,1831,599"/>
+</map>

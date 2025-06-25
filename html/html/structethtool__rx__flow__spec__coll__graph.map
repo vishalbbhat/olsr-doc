@@ -1,0 +1,7 @@
+<map id="ethtool_rx_flow_spec" name="ethtool_rx_flow_spec">
+<area shape="rect" id="node2" href="$structethtool__flow__ext.html" title="ethtool_flow_ext" alt="" coords="55,124,172,151"/>
+<area shape="rect" id="node3" href="$unionethtool__flow__union.html" title="ethtool_flow_union" alt="" coords="196,124,327,151"/>
+<area shape="rect" id="node4" href="$structethtool__ah__espip4__spec.html" title="ethtool_ah_espip4_spec" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node5" href="$structethtool__tcpip4__spec.html" title="ethtool_tcpip4_spec" alt="" coords="192,5,331,32"/>
+<area shape="rect" id="node6" href="$structethtool__usrip4__spec.html" title="ethtool_usrip4_spec" alt="" coords="355,5,493,32"/>
+</map>

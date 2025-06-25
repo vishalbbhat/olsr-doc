@@ -1,0 +1,24 @@
+<map id="oonf_telnet_session" name="oonf_telnet_session">
+<area shape="rect" id="node2" href="$structoonf__telnet__data.html" title="oonf_telnet_data" alt="" coords="655,171,773,197"/>
+<area shape="rect" id="node3" href="$structautobuf.html" title="autobuf" alt="" coords="388,121,453,148"/>
+<area shape="rect" id="node9" href="$structoonf__stream__session.html" title="oonf_stream_session" alt="" coords="1747,211,1893,237"/>
+<area shape="rect" id="node4" href="$structlist__entity.html" title="list_entity" alt="" coords="5,580,84,607"/>
+<area shape="rect" id="node6" href="$structavl__node.html" title="avl_node" alt="" coords="153,815,228,841"/>
+<area shape="rect" id="node7" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="653,731,775,757"/>
+<area shape="rect" id="node10" href="$structoonf__stream__socket.html" title="oonf_stream_socket" alt="" coords="1468,349,1608,376"/>
+<area shape="rect" id="node13" href="$structoonf__class.html" title="oonf_class" alt="" coords="378,464,463,491"/>
+<area shape="rect" id="node17" href="$structos__interface__listener.html" title="os_interface_listener" alt="" coords="865,911,1007,937"/>
+<area shape="rect" id="node18" href="$structos__interface.html" title="os_interface" alt="" coords="667,911,761,937"/>
+<area shape="rect" id="node20" href="$structavl__tree.html" title="avl_tree" alt="" coords="387,953,455,980"/>
+<area shape="rect" id="node22" href="$structoonf__socket__entry.html" title="oonf_socket_entry" alt="" coords="1181,212,1310,239"/>
+<area shape="rect" id="node5" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="351,761,490,788"/>
+<area shape="rect" id="node8" href="$structnetaddr.html" title="netaddr" alt="" coords="388,515,453,541"/>
+<area shape="rect" id="node12" href="$structnetaddr__acl.html" title="netaddr_acl" alt="" coords="669,471,759,497"/>
+<area shape="rect" id="node15" href="$structoonf__stream__managed.html" title="oonf_stream_managed" alt="" coords="1168,444,1323,471"/>
+<area shape="rect" id="node11" href="$structoonf__stream__config.html" title="oonf_stream_config" alt="" coords="868,403,1004,429"/>
+<area shape="rect" id="node16" href="$structoonf__stream__managed__config.html" title="oonf_stream_managed\l_config" alt="" coords="859,459,1013,501"/>
+<area shape="rect" id="node14" href="$unionnetaddr__socket.html" title="netaddr_socket" alt="" coords="1190,504,1301,531"/>
+<area shape="rect" id="node19" href="$structos__interface__flags.html" title="os_interface_flags" alt="" coords="357,840,485,867"/>
+<area shape="rect" id="node21" href="$structos__interface__internal.html" title="os_interface_internal" alt="" coords="349,1055,492,1081"/>
+<area shape="rect" id="node23" href="$structos__fd.html" title="os_fd" alt="" coords="909,172,963,199"/>
+</map>

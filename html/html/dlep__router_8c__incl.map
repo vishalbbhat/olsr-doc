@@ -1,0 +1,35 @@
+<map id="src/generic/dlep/router/dlep_router.c" name="src/generic/dlep/router/dlep_router.c">
+<area shape="rect" id="node4" href="$avl_8h.html" title="oonf/libcommon/avl.h" alt="" coords="3162,1004,3309,1031"/>
+<area shape="rect" id="node6" href="$oonf_8h.html" title="oonf/oonf.h" alt="" coords="1715,1228,1801,1255"/>
+<area shape="rect" id="node10" href="$avl__comp_8h.html" title="oonf/libcommon/avl\l_comp.h" alt="" coords="347,840,481,881"/>
+<area shape="rect" id="node11" href="$netaddr_8h.html" title="oonf/libcommon/netaddr.h" alt="" coords="644,929,816,956"/>
+<area shape="rect" id="node23" href="$cfg__schema_8h.html" title="oonf/libconfig/cfg\l_schema.h" alt="" coords="1311,840,1432,881"/>
+<area shape="rect" id="node25" href="$oonf__subsystem_8h.html" title="oonf/libcore/oonf_subsystem.h" alt="" coords="1070,765,1270,792"/>
+<area shape="rect" id="node30" href="$oonf__class_8h.html" title="oonf/base/oonf_class.h" alt="" coords="2943,929,3101,956"/>
+<area shape="rect" id="node31" href="$oonf__layer2_8h.html" title="oonf/base/oonf_layer2.h" alt="" coords="2517,452,2679,479"/>
+<area shape="rect" id="node34" href="$oonf__timer_8h.html" title="oonf/base/oonf_timer.h" alt="" coords="2589,601,2743,628"/>
+<area shape="rect" id="node39" href="$oonf__packet__socket_8h.html" title="oonf/base/oonf_packet\l_socket.h" alt="" coords="1086,273,1241,315"/>
+<area shape="rect" id="node44" href="$oonf__stream__socket_8h.html" title="oonf/base/oonf_stream\l_socket.h" alt="" coords="1837,273,1991,315"/>
+<area shape="rect" id="node45" href="$dlep__iana_8h.html" title="oonf/generic/dlep/dlep\l_iana.h" alt="" coords="1597,273,1746,315"/>
+<area shape="rect" id="node46" href="$dlep__session_8h.html" title="oonf/generic/dlep/dlep\l_session.h" alt="" coords="2430,184,2579,225"/>
+<area shape="rect" id="node48" href="$dlep__router_8h.html" title="oonf/generic/dlep/router\l/dlep_router.h" alt="" coords="3349,95,3508,136"/>
+<area shape="rect" id="node49" href="$dlep__router__interface_8h.html" title="oonf/generic/dlep/router\l/dlep_router_interface.h" alt="" coords="2267,95,2425,136"/>
+<area shape="rect" id="node8" href="$container__of_8h.html" title="oonf/libcommon/container_of.h" alt="" coords="3114,1153,3314,1180"/>
+<area shape="rect" id="node9" href="$list_8h.html" title="oonf/libcommon/list.h" alt="" coords="2630,1079,2777,1105"/>
+<area shape="rect" id="node16" href="$string_8h.html" title="string.h" alt="" coords="1109,1079,1175,1105"/>
+<area shape="rect" id="node20" href="$autobuf_8h.html" title="oonf/libcommon/autobuf.h" alt="" coords="1847,1004,2019,1031"/>
+<area shape="rect" id="node24" href="$cfg__db_8h.html" title="oonf/libconfig/cfg_db.h" alt="" coords="1397,929,1551,956"/>
+<area shape="rect" id="node27" href="$oonf__logging_8h.html" title="oonf/libcore/oonf_logging.h" alt="" coords="1196,929,1373,956"/>
+<area shape="rect" id="node28" href="$oonf__appdata_8h.html" title="oonf/libcore/oonf_appdata.h" alt="" coords="1275,1079,1457,1105"/>
+<area shape="rect" id="node29" href="$oonf__libdata_8h.html" title="oonf/libcore/oonf_libdata.h" alt="" coords="1304,1153,1479,1180"/>
+<area shape="rect" id="node32" href="$os__interface_8h.html" title="oonf/base/os_interface.h" alt="" coords="1831,527,1997,553"/>
+<area shape="rect" id="node35" href="$oonf__clock_8h.html" title="oonf/base/oonf_clock.h" alt="" coords="1782,683,1939,710"/>
+<area shape="rect" id="node36" href="$isonumber_8h.html" title="oonf/libcommon/isonumber.h" alt="" coords="1762,765,1951,792"/>
+<area shape="rect" id="node37" href="$cfg_8h.html" title="oonf/libconfig/cfg.h" alt="" coords="2077,765,2209,792"/>
+<area shape="rect" id="node38" href="$cfg__cmd_8h.html" title="oonf/libconfig/cfg\l_cmd.h" alt="" coords="1931,840,2052,881"/>
+<area shape="rect" id="node40" href="$netaddr__acl_8h.html" title="oonf/libcommon/netaddr\l_acl.h" alt="" coords="541,676,703,717"/>
+<area shape="rect" id="node41" href="$oonf__socket_8h.html" title="oonf/base/oonf_socket.h" alt="" coords="1357,370,1522,397"/>
+<area shape="rect" id="node42" href="$os__fd_8h.html" title="oonf/base/os_fd.h" alt="" coords="1385,452,1512,479"/>
+<area shape="rect" id="node47" href="$dlep__extension_8h.html" title="oonf/generic/dlep/dlep\l_extension.h" alt="" coords="2618,363,2767,404"/>
+<area shape="rect" id="node50" href="$dlep__interface_8h.html" title="oonf/generic/dlep/dlep\l_interface.h" alt="" coords="2257,184,2406,225"/>
+</map>

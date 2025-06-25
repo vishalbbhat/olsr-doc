@@ -1,0 +1,5 @@
+<map id="oonf_packet_remove" name="oonf_packet_remove">
+<area shape="rect" id="node2" href="$oonf__packet__socket_8h.html#aea015f8faa3885713b9764d0a3d23792" title="oonf_packet_remove\l_managed" alt="" coords="196,35,339,76"/>
+<area shape="rect" id="node3" href="$oonf__rfc5444_8h.html#adb731f4ff93ba34b0d0be697fde8bdbd" title="oonf_rfc5444_reconfigure\l_protocol" alt="" coords="387,5,555,47"/>
+<area shape="rect" id="node4" href="$dlep__interface_8h.html#abc269d9df0e370d48523cbc3f8e10237" title="dlep_if_remove" alt="" coords="415,71,526,98"/>
+</map>

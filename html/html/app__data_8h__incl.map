@@ -1,0 +1,10 @@
+<map id="include/oonf/libcore/app_data.h" name="include/oonf/libcore/app_data.h">
+<area shape="rect" id="node2" href="$oonf__logging_8h.html" title="oonf/libcore/oonf_logging.h" alt="" coords="281,95,458,121"/>
+<area shape="rect" id="node3" href="$string_8h.html" title="string.h" alt="" coords="89,244,154,271"/>
+<area shape="rect" id="node7" href="$oonf_8h.html" title="oonf/oonf.h" alt="" coords="485,319,571,345"/>
+<area shape="rect" id="node10" href="$autobuf_8h.html" title="oonf/libcommon/autobuf.h" alt="" coords="159,169,331,196"/>
+<area shape="rect" id="node13" href="$list_8h.html" title="oonf/libcommon/list.h" alt="" coords="813,169,960,196"/>
+<area shape="rect" id="node15" href="$oonf__appdata_8h.html" title="oonf/libcore/oonf_appdata.h" alt="" coords="407,169,590,196"/>
+<area shape="rect" id="node16" href="$oonf__libdata_8h.html" title="oonf/libcore/oonf_libdata.h" alt="" coords="614,169,789,196"/>
+<area shape="rect" id="node14" href="$container__of_8h.html" title="oonf/libcommon/container_of.h" alt="" coords="648,244,848,271"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="oonf_rfc5444_remove_protocol" name="oonf_rfc5444_remove_protocol">
+<area shape="rect" id="node2" href="$oonf__rfc5444_8c.html#a8cb19bca60a1ad0f2ce9e2b444a22b73" title="oonf_rfc5444_remove\l_interface" alt="" coords="207,5,353,47"/>
+<area shape="rect" id="node3" href="$oonf__duplicate__set_8c.html#a209b892f4eea036d67765cad7c11a2ae" title="oonf_duplicate_set\l_remove" alt="" coords="215,71,345,112"/>
+<area shape="rect" id="node4" href="$rfc5444__reader_8c.html#aab43dc0364e2b99dea09e0fea1f1a8f9" title="rfc5444_reader_cleanup" alt="" coords="200,137,360,163"/>
+<area shape="rect" id="node5" href="$rfc5444__writer_8c.html#a289b276fb6dadc4c0f0cf8413d6ea334" title="rfc5444_writer_cleanup" alt="" coords="202,187,358,214"/>
+<area shape="rect" id="node6" href="$avl_8c.html#a7df5fd352e50ff84f9f0c086245b68ce" title="avl_remove" alt="" coords="235,238,325,265"/>
+</map>

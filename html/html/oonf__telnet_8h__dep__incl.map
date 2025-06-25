@@ -1,0 +1,15 @@
+<map id="include/oonf/base/oonf_telnet.h" name="include/oonf/base/oonf_telnet.h">
+<area shape="rect" id="node2" href="$oonf__http_8c.html" title="src/base/oonf_http.c" alt="" coords="5,102,147,129"/>
+<area shape="rect" id="node3" href="$oonf__telnet_8c.html" title="src/base/oonf_telnet.c" alt="" coords="171,102,322,129"/>
+<area shape="rect" id="node4" href="$oonf__viewer_8c.html" title="src/base/oonf_viewer.c" alt="" coords="105,191,263,218"/>
+<area shape="rect" id="node5" href="$layer2__config_8c.html" title="src/generic/layer2\l_config/layer2_config.c" alt="" coords="779,95,935,136"/>
+<area shape="rect" id="node6" href="$layer2info_8c.html" title="src/generic/layer2info\l/layer2info.c" alt="" coords="287,184,433,225"/>
+<area shape="rect" id="node7" href="$plugin__controller_8c.html" title="src/generic/plugin\l_controller/plugin_controller.c" alt="" coords="959,95,1150,136"/>
+<area shape="rect" id="node8" href="$remotecontrol_8c.html" title="src/generic/remotecontrol\l/remotecontrol.c" alt="" coords="1174,95,1343,136"/>
+<area shape="rect" id="node9" href="$systeminfo_8c.html" title="src/generic/systeminfo\l/systeminfo.c" alt="" coords="457,184,612,225"/>
+<area shape="rect" id="node10" href="$nhdpinfo_8c.html" title="src/nhdp/nhdpinfo/nhdpinfo.c" alt="" coords="636,191,825,218"/>
+<area shape="rect" id="node11" href="$netjsoninfo_8c.html" title="src/olsrv2/netjsoninfo\l/netjsoninfo.c" alt="" coords="1368,95,1515,136"/>
+<area shape="rect" id="node12" href="$olsrv2_8c.html" title="src/olsrv2/olsrv2/olsrv2.c" alt="" coords="1539,102,1707,129"/>
+<area shape="rect" id="node13" href="$olsrv2info_8c.html" title="src/olsrv2/olsrv2info\l/olsrv2info.c" alt="" coords="849,184,988,225"/>
+<area shape="rect" id="node14" href="$oonf__viewer_8h.html" title="include/oonf/base/oonf\l_viewer.h" alt="" coords="499,95,653,136"/>
+</map>

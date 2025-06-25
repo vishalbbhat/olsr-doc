@@ -1,0 +1,5 @@
+<map id="rfc5444_reader_remove_message_consumer" name="rfc5444_reader_remove_message_consumer">
+<area shape="rect" id="node2" href="$rfc5444__print_8h.html#ad1946551fb6e089e7eb1f3dabae7260f" title="rfc5444_print_remove" alt="" coords="215,5,361,32"/>
+<area shape="rect" id="node3" href="$nhdp__reader_8h.html#a3b7f045d59fb3bf22caf252c670d086c" title="nhdp_reader_cleanup" alt="" coords="215,56,361,83"/>
+<area shape="rect" id="node4" href="$olsrv2__reader_8h.html#a403ef33f38f6f1182e37f1baa93e0f1a" title="olsrv2_reader_cleanup" alt="" coords="212,107,364,133"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="_imported_lan" name="_imported_lan">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="461,106,536,133"/>
+<area shape="rect" id="node4" href="$struct__import__entry.html" title="_import_entry" alt="" coords="559,557,660,584"/>
+<area shape="rect" id="node7" href="$structavl__tree.html" title="avl_tree" alt="" coords="1031,204,1099,231"/>
+<area shape="rect" id="node8" href="$structoonf__layer2__origin.html" title="oonf_layer2_origin" alt="" coords="303,278,430,305"/>
+<area shape="rect" id="node10" href="$structos__interface.html" title="os_interface" alt="" coords="801,353,895,380"/>
+<area shape="rect" id="node12" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="113,204,252,231"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="609,7,687,33"/>
+<area shape="rect" id="node9" href="$structos__interface__listener.html" title="os_interface_listener" alt="" coords="609,456,751,483"/>
+<area shape="rect" id="node13" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="94,353,215,380"/>
+<area shape="rect" id="node5" href="$structnetaddr__acl.html" title="netaddr_acl" alt="" coords="1205,405,1294,432"/>
+<area shape="rect" id="node6" href="$structnetaddr.html" title="netaddr" alt="" coords="1242,204,1307,231"/>
+<area shape="rect" id="node15" href="$structos__route__key.html" title="os_route_key" alt="" coords="1247,507,1347,533"/>
+<area shape="rect" id="node11" href="$structos__interface__flags.html" title="os_interface_flags" alt="" coords="712,204,840,231"/>
+<area shape="rect" id="node14" href="$structos__interface__internal.html" title="os_interface_internal" alt="" coords="865,204,1007,231"/>
+</map>

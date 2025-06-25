@@ -1,0 +1,7 @@
+<map id="oonf_stream_config" name="oonf_stream_config">
+<area shape="rect" id="node2" href="$structnetaddr__acl.html" title="netaddr_acl" alt="" coords="5,219,95,245"/>
+<area shape="rect" id="node3" href="$structnetaddr.html" title="netaddr" alt="" coords="17,106,83,133"/>
+<area shape="rect" id="node4" href="$structoonf__class.html" title="oonf_class" alt="" coords="119,219,205,245"/>
+<area shape="rect" id="node5" href="$structavl__node.html" title="avl_node" alt="" coords="241,106,315,133"/>
+<area shape="rect" id="node6" href="$structlist__entity.html" title="list_entity" alt="" coords="128,7,207,33"/>
+</map>

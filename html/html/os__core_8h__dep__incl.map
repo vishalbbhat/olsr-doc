@@ -1,0 +1,12 @@
+<map id="include/oonf/libcore/os_core.h" name="include/oonf/libcore/os_core.h">
+<area shape="rect" id="node2" href="$oonf__http_8c.html" title="src/base/oonf_http.c" alt="" coords="5,102,147,129"/>
+<area shape="rect" id="node3" href="$oonf__rfc5444_8c.html" title="src/base/oonf_rfc5444.c" alt="" coords="171,102,333,129"/>
+<area shape="rect" id="node4" href="$oonf__timer_8c.html" title="src/base/oonf_timer.c" alt="" coords="358,102,506,129"/>
+<area shape="rect" id="node5" href="$oonf__logging_8c.html" title="src/libcore/oonf_logging.c" alt="" coords="531,102,701,129"/>
+<area shape="rect" id="node6" href="$oonf__main_8c.html" title="src/libcore/oonf_main.c" alt="" coords="725,102,883,129"/>
+<area shape="rect" id="node7" href="$os__core__generic__syslog_8c.html" title="src/libcore/os_generic\l/os_core_generic_syslog.c" alt="" coords="907,95,1085,136"/>
+<area shape="rect" id="node8" href="$os__core__linux_8c.html" title="src/libcore/os_linux\l/os_core_linux.c" alt="" coords="1109,95,1243,136"/>
+<area shape="rect" id="node9" href="$auto__ll4_8c.html" title="src/nhdp/auto_ll4/auto\l_ll4.c" alt="" coords="1267,95,1418,136"/>
+<area shape="rect" id="node10" href="$olsrv2__routing_8c.html" title="src/olsrv2/olsrv2/olsrv2\l_routing.c" alt="" coords="1443,95,1600,136"/>
+<area shape="rect" id="node11" href="$os__core__linux_8h.html" title="include/oonf/libcore\l/os_linux/os_core_linux.h" alt="" coords="1625,95,1794,136"/>
+</map>

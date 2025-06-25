@@ -1,0 +1,23 @@
+<map id="include/oonf/base/oonf_socket.h" name="include/oonf/base/oonf_socket.h">
+<area shape="rect" id="node2" href="$avl_8h.html" title="oonf/libcommon/avl.h" alt="" coords="227,721,374,748"/>
+<area shape="rect" id="node4" href="$oonf_8h.html" title="oonf/oonf.h" alt="" coords="750,945,837,972"/>
+<area shape="rect" id="node7" href="$list_8h.html" title="oonf/libcommon/list.h" alt="" coords="28,796,175,823"/>
+<area shape="rect" id="node8" href="$netaddr__acl_8h.html" title="oonf/libcommon/netaddr\l_acl.h" alt="" coords="2017,632,2178,673"/>
+<area shape="rect" id="node21" href="$os__fd_8h.html" title="oonf/base/os_fd.h" alt="" coords="764,95,890,121"/>
+<area shape="rect" id="node6" href="$container__of_8h.html" title="oonf/libcommon/container_of.h" alt="" coords="22,871,222,897"/>
+<area shape="rect" id="node9" href="$netaddr_8h.html" title="oonf/libcommon/netaddr.h" alt="" coords="1845,721,2017,748"/>
+<area shape="rect" id="node14" href="$string_8h.html" title="string.h" alt="" coords="2180,871,2245,897"/>
+<area shape="rect" id="node18" href="$autobuf_8h.html" title="oonf/libcommon/autobuf.h" alt="" coords="1240,796,1412,823"/>
+<area shape="rect" id="node24" href="$oonf__logging_8h.html" title="oonf/libcore/oonf_logging.h" alt="" coords="764,721,941,748"/>
+<area shape="rect" id="node27" href="$oonf__timer_8h.html" title="oonf/base/oonf_timer.h" alt="" coords="527,244,682,271"/>
+<area shape="rect" id="node35" href="$os__interface_8h.html" title="oonf/base/os_interface.h" alt="" coords="407,169,572,196"/>
+<area shape="rect" id="node25" href="$oonf__appdata_8h.html" title="oonf/libcore/oonf_appdata.h" alt="" coords="702,871,885,897"/>
+<area shape="rect" id="node26" href="$oonf__libdata_8h.html" title="oonf/libcore/oonf_libdata.h" alt="" coords="909,871,1084,897"/>
+<area shape="rect" id="node28" href="$oonf__clock_8h.html" title="oonf/base/oonf_clock.h" alt="" coords="566,319,723,345"/>
+<area shape="rect" id="node29" href="$isonumber_8h.html" title="oonf/libcommon/isonumber.h" alt="" coords="550,475,739,502"/>
+<area shape="rect" id="node30" href="$cfg_8h.html" title="oonf/libconfig/cfg.h" alt="" coords="1060,393,1192,420"/>
+<area shape="rect" id="node33" href="$cfg__schema_8h.html" title="oonf/libconfig/cfg\l_schema.h" alt="" coords="1669,632,1790,673"/>
+<area shape="rect" id="node31" href="$cfg__cmd_8h.html" title="oonf/libconfig/cfg\l_cmd.h" alt="" coords="1114,468,1236,509"/>
+<area shape="rect" id="node34" href="$cfg__io_8h.html" title="oonf/libconfig/cfg_io.h" alt="" coords="890,639,1039,666"/>
+<area shape="rect" id="node32" href="$cfg__db_8h.html" title="oonf/libconfig/cfg_db.h" alt="" coords="1538,557,1692,584"/>
+</map>

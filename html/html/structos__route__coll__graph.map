@@ -1,0 +1,8 @@
+<map id="os_route" name="os_route">
+<area shape="rect" id="node2" href="$structos__route__internal.html" title="os_route_internal" alt="" coords="5,219,127,245"/>
+<area shape="rect" id="node3" href="$structavl__node.html" title="avl_node" alt="" coords="29,121,103,147"/>
+<area shape="rect" id="node4" href="$structlist__entity.html" title="list_entity" alt="" coords="27,7,105,33"/>
+<area shape="rect" id="node5" href="$structos__route__parameter.html" title="os_route_parameter" alt="" coords="151,219,288,245"/>
+<area shape="rect" id="node6" href="$structos__route__key.html" title="os_route_key" alt="" coords="280,121,380,147"/>
+<area shape="rect" id="node7" href="$structnetaddr.html" title="netaddr" alt="" coords="223,7,288,33"/>
+</map>

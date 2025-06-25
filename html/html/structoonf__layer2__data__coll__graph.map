@@ -1,0 +1,8 @@
+<map id="oonf_layer2_data" name="oonf_layer2_data">
+<area shape="rect" id="node2" href="$unionoonf__layer2__value.html" title="oonf_layer2_value" alt="" coords="5,204,132,231"/>
+<area shape="rect" id="node3" href="$structnetaddr.html" title="netaddr" alt="" coords="36,106,101,133"/>
+<area shape="rect" id="node4" href="$structoonf__layer2__origin.html" title="oonf_layer2_origin" alt="" coords="156,204,283,231"/>
+<area shape="rect" id="node5" href="$structavl__node.html" title="avl_node" alt="" coords="182,106,257,133"/>
+<area shape="rect" id="node6" href="$structlist__entity.html" title="list_entity" alt="" coords="180,7,259,33"/>
+<area shape="rect" id="node7" href="$structoonf__layer2__metadata.html" title="oonf_layer2_metadata" alt="" coords="307,204,457,231"/>
+</map>

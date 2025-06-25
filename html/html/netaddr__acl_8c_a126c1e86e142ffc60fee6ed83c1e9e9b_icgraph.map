@@ -1,0 +1,6 @@
+<map id="netaddr_acl_copy" name="netaddr_acl_copy">
+<area shape="rect" id="node2" href="$oonf__packet__socket_8h.html#a4c3b6fb2af78460fcb380112ecb7a9ff" title="oonf_packet_copy_managed\l_config" alt="" coords="178,5,366,47"/>
+<area shape="rect" id="node5" href="$oonf__stream__socket_8h.html#a715667f7bc15ab0a83bb06ff4418e0b3" title="oonf_stream_copy_managed\l_config" alt="" coords="177,71,367,112"/>
+<area shape="rect" id="node3" href="$oonf__rfc5444_8h.html#a84abd65e6dcfd289565ba20be96d8b34" title="oonf_rfc5444_reconfigure\l_interface" alt="" coords="415,5,583,47"/>
+<area shape="rect" id="node4" href="$oonf__rfc5444_8h.html#adb731f4ff93ba34b0d0be697fde8bdbd" title="oonf_rfc5444_reconfigure\l_protocol" alt="" coords="631,5,799,47"/>
+</map>

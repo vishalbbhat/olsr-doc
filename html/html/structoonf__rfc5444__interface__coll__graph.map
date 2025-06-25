@@ -1,0 +1,36 @@
+<map id="oonf_rfc5444_interface" name="oonf_rfc5444_interface">
+<area shape="rect" id="node14" href="$structoonf__rfc5444__input__parameters.html" title="oonf_rfc5444_input\l_parameters" alt="" coords="2112,335,2244,377"/>
+<area shape="rect" id="node23" href="$structoonf__rfc5444__target.html" title="oonf_rfc5444_target" alt="" coords="2109,769,2247,796"/>
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="199,1028,274,1055"/>
+<area shape="rect" id="node4" href="$structoonf__rfc5444__protocol.html" title="oonf_rfc5444_protocol" alt="" coords="2328,1291,2479,1317"/>
+<area shape="rect" id="node5" href="$structavl__tree.html" title="avl_tree" alt="" coords="551,1513,619,1540"/>
+<area shape="rect" id="node7" href="$structrfc5444__writer__addrtlv.html" title="rfc5444_writer_addrtlv" alt="" coords="1516,1256,1667,1283"/>
+<area shape="rect" id="node8" href="$structrfc5444__writer__address.html" title="rfc5444_writer_address" alt="" coords="824,1308,981,1335"/>
+<area shape="rect" id="node11" href="$structrfc5444__writer__message.html" title="rfc5444_writer_message" alt="" coords="821,1359,985,1385"/>
+<area shape="rect" id="node20" href="$structrfc5444__reader__tlvblock__entry.html" title="rfc5444_reader_tlvblock\l_entry" alt="" coords="823,1821,983,1862"/>
+<area shape="rect" id="node24" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="515,912,654,939"/>
+<area shape="rect" id="node30" href="$structos__interface.html" title="os_interface" alt="" coords="856,484,949,511"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="5,1028,84,1055"/>
+<area shape="rect" id="node6" href="$structrfc5444__writer.html" title="rfc5444_writer" alt="" coords="1867,1291,1971,1317"/>
+<area shape="rect" id="node10" href="$structrfc5444__writer__tlvtype.html" title="rfc5444_writer_tlvtype" alt="" coords="1181,1368,1331,1395"/>
+<area shape="rect" id="node12" href="$structrfc5444__writer__target.html" title="rfc5444_writer_target" alt="" coords="1519,952,1663,979"/>
+<area shape="rect" id="node18" href="$structrfc5444__reader__addrblock__entry.html" title="rfc5444_reader_addrblock\l_entry" alt="" coords="817,1886,988,1927"/>
+<area shape="rect" id="node25" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="842,928,963,955"/>
+<area shape="rect" id="node28" href="$structoonf__packet__socket.html" title="oonf_packet_socket" alt="" coords="1187,528,1325,555"/>
+<area shape="rect" id="node33" href="$structoonf__socket__entry.html" title="oonf_socket_entry" alt="" coords="172,333,301,360"/>
+<area shape="rect" id="node35" href="$structos__interface__listener.html" title="os_interface_listener" alt="" coords="1185,405,1327,432"/>
+<area shape="rect" id="node16" href="$structoonf__duplicate__set.html" title="oonf_duplicate_set" alt="" coords="1017,1649,1148,1676"/>
+<area shape="rect" id="node17" href="$structrfc5444__reader.html" title="rfc5444_reader" alt="" coords="1202,1748,1310,1775"/>
+<area shape="rect" id="node9" href="$structnetaddr.html" title="netaddr" alt="" coords="552,196,617,223"/>
+<area shape="rect" id="node21" href="$structoonf__packet__managed__config.html" title="oonf_packet_managed\l_config" alt="" coords="1179,245,1333,286"/>
+<area shape="rect" id="node22" href="$structnetaddr__acl.html" title="netaddr_acl" alt="" coords="858,171,947,197"/>
+<area shape="rect" id="node13" href="$structrfc5444__tlv__writer__data.html" title="rfc5444_tlv_writer_data" alt="" coords="1177,991,1335,1017"/>
+<area shape="rect" id="node15" href="$unionnetaddr__socket.html" title="netaddr_socket" alt="" coords="847,353,958,380"/>
+<area shape="rect" id="node19" href="$structbitmap256.html" title="bitmap256" alt="" coords="543,1835,626,1861"/>
+<area shape="rect" id="node26" href="$structoonf__packet__managed.html" title="oonf_packet_managed" alt="" coords="1515,557,1668,584"/>
+<area shape="rect" id="node27" href="$structoonf__packet__config.html" title="oonf_packet_config" alt="" coords="835,636,970,663"/>
+<area shape="rect" id="node29" href="$structautobuf.html" title="autobuf" alt="" coords="870,585,935,612"/>
+<area shape="rect" id="node31" href="$structos__interface__flags.html" title="os_interface_flags" alt="" coords="521,483,649,509"/>
+<area shape="rect" id="node32" href="$structos__interface__internal.html" title="os_interface_internal" alt="" coords="513,533,656,560"/>
+<area shape="rect" id="node34" href="$structos__fd.html" title="os_fd" alt="" coords="17,333,72,360"/>
+</map>

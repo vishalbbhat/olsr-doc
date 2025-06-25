@@ -1,0 +1,8 @@
+<map id="oonf_viewer_template" name="oonf_viewer_template">
+<area shape="rect" id="node2" href="$structautobuf.html" title="autobuf" alt="" coords="5,117,71,143"/>
+<area shape="rect" id="node7" href="$structjson__session.html" title="json_session" alt="" coords="59,225,158,252"/>
+<area shape="rect" id="node3" href="$structabuf__template__data.html" title="abuf_template_data" alt="" coords="139,175,275,201"/>
+<area shape="rect" id="node4" href="$structabuf__template__data__entry.html" title="abuf_template_data\l_entry" alt="" coords="170,5,306,47"/>
+<area shape="rect" id="node6" href="$structabuf__template__storage__entry.html" title="abuf_template_storage\l_entry" alt="" coords="250,109,405,151"/>
+<area shape="rect" id="node5" href="$structabuf__template__storage.html" title="abuf_template_storage" alt="" coords="259,225,414,252"/>
+</map>

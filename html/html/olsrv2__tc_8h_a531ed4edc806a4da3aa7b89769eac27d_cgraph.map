@@ -1,0 +1,9 @@
+<map id="olsrv2_tc_node_remove" name="olsrv2_tc_node_remove">
+<area shape="rect" id="node2" href="$olsrv2__tc_8c.html#a5230e679205b244ed63702d037b8379c" title="olsrv2_tc_edge_remove" alt="" coords="213,42,373,69"/>
+<area shape="rect" id="node6" href="$olsrv2__tc_8c.html#af23d7feaddf0813599d6ae5a336066d0" title="olsrv2_tc_endpoint\l_remove" alt="" coords="228,93,359,135"/>
+<area shape="rect" id="node7" href="$avl_8c.html#a7df5fd352e50ff84f9f0c086245b68ce" title="avl_remove" alt="" coords="453,159,542,186"/>
+<area shape="rect" id="node8" href="$oonf__timer_8c.html#a4fd014d70bdba001225aaf6c01658662" title="oonf_timer_stop" alt="" coords="236,210,351,237"/>
+<area shape="rect" id="node3" href="$olsrv2__routing_8c.html#aefa2a72892145b6f380c5abec44eb24e" title="olsrv2_routing_domain\l_changed" alt="" coords="421,35,573,76"/>
+<area shape="rect" id="node4" href="$olsrv2__routing_8c.html#ad0bae4139bf144cfad0a63f7edbc3383" title="olsrv2_routing_trigger\l_update" alt="" coords="622,5,769,47"/>
+<area shape="rect" id="node5" href="$nhdp__domain_8c.html#acce615df77e54590cbff812efc40f8b7" title="nhdp_domain_get_list" alt="" coords="621,71,769,98"/>
+</map>

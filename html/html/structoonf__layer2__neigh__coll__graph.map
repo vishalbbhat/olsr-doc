@@ -1,0 +1,18 @@
+<map id="oonf_layer2_neigh" name="oonf_layer2_neigh">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="153,677,228,704"/>
+<area shape="rect" id="node7" href="$structoonf__layer2__origin.html" title="oonf_layer2_origin" alt="" coords="504,180,631,207"/>
+<area shape="rect" id="node10" href="$structavl__tree.html" title="avl_tree" alt="" coords="375,771,443,797"/>
+<area shape="rect" id="node11" href="$structoonf__layer2__net.html" title="oonf_layer2_net" alt="" coords="1260,361,1375,388"/>
+<area shape="rect" id="node13" href="$structos__interface.html" title="os_interface" alt="" coords="683,413,777,440"/>
+<area shape="rect" id="node15" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="339,615,478,641"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="5,559,84,585"/>
+<area shape="rect" id="node12" href="$structos__interface__listener.html" title="os_interface_listener" alt="" coords="1008,361,1151,388"/>
+<area shape="rect" id="node16" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="669,588,791,615"/>
+<area shape="rect" id="node4" href="$structoonf__layer2__data.html" title="oonf_layer2_data" alt="" coords="1019,255,1140,281"/>
+<area shape="rect" id="node5" href="$unionoonf__layer2__value.html" title="oonf_layer2_value" alt="" coords="667,152,793,179"/>
+<area shape="rect" id="node6" href="$structnetaddr.html" title="netaddr" alt="" coords="376,119,441,145"/>
+<area shape="rect" id="node9" href="$structoonf__layer2__neigh__key.html" title="oonf_layer2_neigh_key" alt="" coords="829,39,984,65"/>
+<area shape="rect" id="node8" href="$structoonf__layer2__metadata.html" title="oonf_layer2_metadata" alt="" coords="655,203,805,229"/>
+<area shape="rect" id="node14" href="$structos__interface__flags.html" title="os_interface_flags" alt="" coords="345,457,473,484"/>
+<area shape="rect" id="node17" href="$structos__interface__internal.html" title="os_interface_internal" alt="" coords="337,344,480,371"/>
+</map>

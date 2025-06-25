@@ -1,0 +1,11 @@
+<map id="oonf_cfg_apply" name="oonf_cfg_apply">
+<area shape="rect" id="node2" href="$autobuf_8c.html#ae2c18ff7ec8e2021b6f0eac100da48bc" title="abuf_init" alt="" coords="219,56,290,83"/>
+<area shape="rect" id="node3" href="$oonf__cfg_8c.html#a6f562c8f73c1a24603d9f3a02cdc28ab" title="oonf_cfg_update_globalcfg" alt="" coords="166,107,343,133"/>
+<area shape="rect" id="node7" href="$oonf__cfg_8c.html#a3f81b4594d557decbfd13b08f7685f52" title="oonf_cfg_load_subsystems" alt="" coords="164,157,345,184"/>
+<area shape="rect" id="node10" href="$cfg__schema_8c.html#ab4340ff1db6f62329d1c200482b79034" title="cfg_schema_validate" alt="" coords="182,208,327,235"/>
+<area shape="rect" id="node4" href="$cfg__db_8c.html#a96bd1e8f4e457959062d1bac790be844" title="cfg_db_find_namedsection" alt="" coords="407,5,584,32"/>
+<area shape="rect" id="node5" href="$cfg__schema_8c.html#a94b494c859e56f53431b8528a79df27c" title="cfg_schema_tobin" alt="" coords="431,56,559,83"/>
+<area shape="rect" id="node6" href="$oonf__subsystem_8c.html#a38487659c75ad04784379c7449871248" title="oonf_subsystem_set_path" alt="" coords="408,107,583,133"/>
+<area shape="rect" id="node8" href="$oonf__subsystem_8c.html#a2d447f8e6d3c7c35ea9904694f565ff6" title="oonf_subsystem_extract_name" alt="" coords="393,157,597,184"/>
+<area shape="rect" id="node9" href="$oonf__cfg_8c.html#aba58459b56b467d97f209241709d25c4" title="oonf_cfg_load_subsystem" alt="" coords="408,208,583,235"/>
+</map>

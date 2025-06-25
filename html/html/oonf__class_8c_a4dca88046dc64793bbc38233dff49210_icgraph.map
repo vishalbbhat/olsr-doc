@@ -1,0 +1,15 @@
+<map id="oonf_class_malloc" name="oonf_class_malloc">
+<area shape="rect" id="node2" href="$oonf__duplicate__set_8h.html#a34517c9ee53765500d7635c40b06d27a" title="oonf_duplicate_entry_add" alt="" coords="192,5,363,32"/>
+<area shape="rect" id="node3" href="$dlep__radio__interface_8h.html#a01f3b798fc5b660895caa58bc4f6c1a0" title="dlep_radio_add_interface" alt="" coords="194,56,361,83"/>
+<area shape="rect" id="node4" href="$dlep__router__interface_8h.html#aead094121c59b25fba4f1a74fec84b5b" title="dlep_router_add_interface" alt="" coords="192,107,363,133"/>
+<area shape="rect" id="node5" href="$dlep__router__session_8h.html#aa523c2433cbe4a79b39bc8c975b04384" title="dlep_router_add_session" alt="" coords="194,157,361,184"/>
+<area shape="rect" id="node6" href="$nhdp__db_8h.html#ad341ab7a5dedd83fd15e0e0af0244acf" title="nhdp_db_neighbor_add" alt="" coords="200,208,355,235"/>
+<area shape="rect" id="node7" href="$nhdp__db_8h.html#a29cf817d32a95ed56dbe43404cf8d4c1" title="nhdp_db_neighbor_addr_add" alt="" coords="184,259,371,285"/>
+<area shape="rect" id="node8" href="$nhdp__db_8h.html#a3caa3b6c7d1730b1781b3cce3c56718a" title="nhdp_db_link_add" alt="" coords="214,309,341,336"/>
+<area shape="rect" id="node9" href="$nhdp__db_8h.html#a15f85fd40f3797f360bc3dac6f927702" title="nhdp_db_link_addr_add" alt="" coords="198,360,357,387"/>
+<area shape="rect" id="node10" href="$nhdp__db_8h.html#a8fbe1b4c8e9e3cd0b3d133ee92a9cc97" title="nhdp_db_link_2hop_add" alt="" coords="197,411,358,437"/>
+<area shape="rect" id="node11" href="$nhdp__domain_8h.html#a780f1d37dfd2c4c4a042ec991790100c" title="nhdp_domain_add" alt="" coords="214,461,341,488"/>
+<area shape="rect" id="node13" href="$olsrv2__tc_8h.html#aebcc7bee3912ed78d70059799d8a5a70" title="olsrv2_tc_edge_add" alt="" coords="208,512,347,539"/>
+<area shape="rect" id="node14" href="$olsrv2__tc_8h.html#aff5cf8bf38d89608c0ac2573d5bfdbf9" title="olsrv2_tc_endpoint_add" alt="" coords="198,563,357,589"/>
+<area shape="rect" id="node12" href="$nhdp__domain_8h.html#ac9f72e7db7550d9ecd6f76b14f7c6127" title="nhdp_domain_configure" alt="" coords="419,461,577,488"/>
+</map>

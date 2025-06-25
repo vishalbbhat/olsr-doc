@@ -1,0 +1,7 @@
+<map id="olsrv2_lan_entry" name="olsrv2_lan_entry">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="7,121,82,147"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="5,7,84,33"/>
+<area shape="rect" id="node4" href="$structos__route__key.html" title="os_route_key" alt="" coords="168,121,268,147"/>
+<area shape="rect" id="node5" href="$structnetaddr.html" title="netaddr" alt="" coords="185,7,251,33"/>
+<area shape="rect" id="node6" href="$structolsrv2__lan__domaindata.html" title="olsrv2_lan_domaindata" alt="" coords="291,121,446,147"/>
+</map>

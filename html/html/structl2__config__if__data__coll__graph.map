@@ -1,0 +1,10 @@
+<map id="l2_config_if_data" name="l2_config_if_data">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="173,106,247,133"/>
+<area shape="rect" id="node8" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="141,204,279,231"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="31,7,109,33"/>
+<area shape="rect" id="node9" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="5,293,127,320"/>
+<area shape="rect" id="node4" href="$structl2__config__data.html" title="l2_config_data" alt="" coords="473,204,579,231"/>
+<area shape="rect" id="node5" href="$unionoonf__layer2__value.html" title="oonf_layer2_value" alt="" coords="541,106,668,133"/>
+<area shape="rect" id="node6" href="$structnetaddr.html" title="netaddr" alt="" coords="463,7,528,33"/>
+<area shape="rect" id="node7" href="$structoonf__layer2__neigh__key.html" title="oonf_layer2_neigh_key" alt="" coords="362,106,517,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="dlep_radio_apply_interface_settings" name="dlep_radio_apply_interface_settings">
+<area shape="rect" id="node2" href="$oonf__packet__socket_8c.html#a23137d09f8940e6b27bea814000d229d" title="oonf_packet_apply_managed" alt="" coords="230,5,421,32"/>
+<area shape="rect" id="node3" href="$oonf__stream__socket_8c.html#a2e4c48cb824ba348d85145484fb33380" title="oonf_stream_apply_managed" alt="" coords="229,56,421,83"/>
+<area shape="rect" id="node4" href="$dlep__extension_8c.html#a928796a4d019f09f67b23ba8c15cb186" title="dlep_extension_get_tree" alt="" coords="244,107,407,133"/>
+</map>

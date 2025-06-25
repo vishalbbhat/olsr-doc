@@ -1,0 +1,13 @@
+<map id="dlep_extension_add" name="dlep_extension_add">
+<area shape="rect" id="node2" href="$ip_8h.html#adfae2afbb746b1e8df669b87b8122c4a" title="dlep_base_ip_init" alt="" coords="409,208,532,235"/>
+<area shape="rect" id="node5" href="$metric_8h.html#ab839e3b73ad3499f16aefde1661e063c" title="dlep_base_metric_init" alt="" coords="397,309,545,336"/>
+<area shape="rect" id="node6" href="$proto_8h.html#a5148627006bebd28727f2004e57f5fe9" title="dlep_base_proto_init" alt="" coords="191,259,332,285"/>
+<area shape="rect" id="node9" href="$l1__statistics_8h.html#ad45cdf4f2021ed9fa89935d75987d795" title="dlep_l1_statistics_init" alt="" coords="397,107,544,133"/>
+<area shape="rect" id="node10" href="$l2__statistics_8h.html#ae4e4959267f168b0f45e7a3773702536" title="dlep_l2_statistics_init" alt="" coords="397,360,544,387"/>
+<area shape="rect" id="node11" href="$lid_8h.html#a019b6f70f8229091e04b32345a737ded" title="dlep_lid_init" alt="" coords="425,157,516,184"/>
+<area shape="rect" id="node12" href="$radio__attributes_8h.html#ae957174e03fd05378a3598d6ce3f405f" title="dlep_radio_attributes_init" alt="" coords="387,5,554,32"/>
+<area shape="rect" id="node3" href="$dlep__radio__interface_8h.html#a1dec57cc2ee5fe9614fc19fbd4400460" title="dlep_radio_interface_init" alt="" coords="611,157,774,184"/>
+<area shape="rect" id="node4" href="$dlep__router__interface_8h.html#a880e1ad49aa5691c8678f95ff5ab9621" title="dlep_router_interface_init" alt="" coords="609,208,776,235"/>
+<area shape="rect" id="node7" href="$proto__radio_8h.html#adcc2409d7468cd9f984d327ee38f60d6" title="dlep_base_proto_radio_init" alt="" coords="383,56,559,83"/>
+<area shape="rect" id="node8" href="$proto__router_8h.html#a211f0b3be742df7aadf9ef606aef534d" title="dlep_base_proto_router_init" alt="" coords="380,259,561,285"/>
+</map>

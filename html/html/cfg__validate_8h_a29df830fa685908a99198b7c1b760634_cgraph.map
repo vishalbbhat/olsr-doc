@@ -1,0 +1,6 @@
+<map id="cfg_validate_int" name="cfg_validate_int">
+<area shape="rect" id="node2" href="$isonumber_8c.html#a9fd09e20d3851428e0d04b2a78e58839" title="isonumber_to_s64" alt="" coords="189,5,317,32"/>
+<area shape="rect" id="node4" href="$cfg_8c.html#ae793abcf87454ad7a2537ec60d7df5cd" title="cfg_append_printable_line" alt="" coords="167,56,339,83"/>
+<area shape="rect" id="node5" href="$isonumber_8c.html#a600fb1fb00b2e729b64d093c3e8eb425" title="isonumber_from_s64" alt="" coords="181,107,324,133"/>
+<area shape="rect" id="node3" href="$isonumber_8c.html#a2f618fcb4abb15818da8eedc21c1b7e1" title="isonumber_to_u64" alt="" coords="387,5,515,32"/>
+</map>

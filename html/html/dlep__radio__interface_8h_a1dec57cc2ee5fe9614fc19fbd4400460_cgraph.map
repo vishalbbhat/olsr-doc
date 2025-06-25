@@ -1,0 +1,19 @@
+<map id="dlep_radio_interface_init" name="dlep_radio_interface_init">
+<area shape="rect" id="node2" href="$oonf__class_8c.html#a3d83afcfb12fd4cbeae093a030396b76" title="oonf_class_add" alt="" coords="471,56,585,83"/>
+<area shape="rect" id="node3" href="$dlep__extension_8c.html#a65b92f666acdf2ee9a11b207a4c42015" title="dlep_extension_init" alt="" coords="237,615,371,641"/>
+<area shape="rect" id="node5" href="$dlep__session_8c.html#aed264f03c2919142b511f55970306035" title="dlep_session_init" alt="" coords="243,107,365,133"/>
+<area shape="rect" id="node7" href="$dlep__radio__session_8c.html#a2e6c7062bcbb1bd4aa324476b569c737" title="dlep_radio_session_init" alt="" coords="225,5,383,32"/>
+<area shape="rect" id="node8" href="$proto__radio_8c.html#adcc2409d7468cd9f984d327ee38f60d6" title="dlep_base_proto_radio_init" alt="" coords="216,425,392,452"/>
+<area shape="rect" id="node13" href="$ip_8c.html#adfae2afbb746b1e8df669b87b8122c4a" title="dlep_base_ip_init" alt="" coords="243,157,365,184"/>
+<area shape="rect" id="node14" href="$metric_8c.html#ab839e3b73ad3499f16aefde1661e063c" title="dlep_base_metric_init" alt="" coords="454,309,602,336"/>
+<area shape="rect" id="node15" href="$l1__statistics_8c.html#ad45cdf4f2021ed9fa89935d75987d795" title="dlep_l1_statistics_init" alt="" coords="455,360,601,387"/>
+<area shape="rect" id="node16" href="$l2__statistics_8c.html#ae4e4959267f168b0f45e7a3773702536" title="dlep_l2_statistics_init" alt="" coords="231,505,377,532"/>
+<area shape="rect" id="node17" href="$radio__attributes_8c.html#ae957174e03fd05378a3598d6ce3f405f" title="dlep_radio_attributes_init" alt="" coords="221,208,387,235"/>
+<area shape="rect" id="node18" href="$lid_8c.html#a019b6f70f8229091e04b32345a737ded" title="dlep_lid_init" alt="" coords="259,259,349,285"/>
+<area shape="rect" id="node4" href="$avl_8c.html#a0f1e0ca238ebd0c71f4898f900e0840e" title="avl_init" alt="" coords="497,629,559,656"/>
+<area shape="rect" id="node6" href="$oonf__timer_8c.html#ab7e8c4384e13492ca4a53e74fd7b53ef" title="oonf_timer_add" alt="" coords="473,107,583,133"/>
+<area shape="rect" id="node9" href="$proto_8c.html#a5148627006bebd28727f2004e57f5fe9" title="dlep_base_proto_init" alt="" coords="457,411,599,437"/>
+<area shape="rect" id="node11" href="$dlep__extension_8c.html#a19db1e6739c41ebdc39750b0c5a2f97d" title="dlep_extension_add\l_processing" alt="" coords="459,462,597,503"/>
+<area shape="rect" id="node12" href="$oonf__class_8c.html#a0477692a385a83b0120964f961acb236" title="oonf_class_extension_add" alt="" coords="440,528,616,555"/>
+<area shape="rect" id="node10" href="$dlep__extension_8c.html#aabd06aa7439926d6794d03a6ef59fa7c" title="dlep_extension_add" alt="" coords="664,309,801,336"/>
+</map>

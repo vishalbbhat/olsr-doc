@@ -1,0 +1,37 @@
+<map id="include/oonf/nhdp/nhdp/nhdp_db.h" name="include/oonf/nhdp/nhdp/nhdp_db.h">
+<area shape="rect" id="node2" href="$avl_8h.html" title="oonf/libcommon/avl.h" alt="" coords="512,1071,659,1098"/>
+<area shape="rect" id="node4" href="$oonf_8h.html" title="oonf/oonf.h" alt="" coords="2089,1317,2175,1344"/>
+<area shape="rect" id="node7" href="$list_8h.html" title="oonf/libcommon/list.h" alt="" coords="235,1161,381,1187"/>
+<area shape="rect" id="node8" href="$netaddr_8h.html" title="oonf/libcommon/netaddr.h" alt="" coords="2414,1071,2586,1098"/>
+<area shape="rect" id="node20" href="$oonf__rfc5444_8h.html" title="oonf/base/oonf_rfc5444.h" alt="" coords="2843,169,3013,196"/>
+<area shape="rect" id="node22" href="$oonf__timer_8h.html" title="oonf/base/oonf_timer.h" alt="" coords="1859,572,2013,599"/>
+<area shape="rect" id="node49" href="$nhdp_8h.html" title="oonf/nhdp/nhdp/nhdp.h" alt="" coords="2016,95,2171,121"/>
+<area shape="rect" id="node6" href="$container__of_8h.html" title="oonf/libcommon/container_of.h" alt="" coords="343,1243,543,1269"/>
+<area shape="rect" id="node13" href="$string_8h.html" title="string.h" alt="" coords="1318,1243,1383,1269"/>
+<area shape="rect" id="node17" href="$autobuf_8h.html" title="oonf/libcommon/autobuf.h" alt="" coords="1262,1161,1434,1187"/>
+<area shape="rect" id="node21" href="$oonf__duplicate__set_8h.html" title="oonf/base/oonf_duplicate\l_set.h" alt="" coords="2521,483,2687,524"/>
+<area shape="rect" id="node30" href="$oonf__packet__socket_8h.html" title="oonf/base/oonf_packet\l_socket.h" alt="" coords="2203,244,2357,285"/>
+<area shape="rect" id="node41" href="$rfc5444_8h.html" title="oonf/librfc5444/rfc5444.h" alt="" coords="3285,893,3451,919"/>
+<area shape="rect" id="node42" href="$rfc5444__iana_8h.html" title="oonf/librfc5444/rfc5444\l_iana.h" alt="" coords="3296,975,3451,1016"/>
+<area shape="rect" id="node43" href="$rfc5444__context_8h.html" title="oonf/librfc5444/rfc5444\l_context.h" alt="" coords="3195,1064,3349,1105"/>
+<area shape="rect" id="node45" href="$rfc5444__reader_8h.html" title="oonf/librfc5444/rfc5444\l_reader.h" alt="" coords="3067,975,3221,1016"/>
+<area shape="rect" id="node47" href="$rfc5444__writer_8h.html" title="oonf/librfc5444/rfc5444\l_writer.h" alt="" coords="2915,885,3069,927"/>
+<area shape="rect" id="node23" href="$oonf__clock_8h.html" title="oonf/base/oonf_clock.h" alt="" coords="1844,647,2001,673"/>
+<area shape="rect" id="node24" href="$isonumber_8h.html" title="oonf/libcommon/isonumber.h" alt="" coords="1816,803,2005,830"/>
+<area shape="rect" id="node25" href="$cfg_8h.html" title="oonf/libconfig/cfg.h" alt="" coords="1266,721,1398,748"/>
+<area shape="rect" id="node28" href="$cfg__schema_8h.html" title="oonf/libconfig/cfg\l_schema.h" alt="" coords="1619,975,1741,1016"/>
+<area shape="rect" id="node26" href="$cfg__cmd_8h.html" title="oonf/libconfig/cfg\l_cmd.h" alt="" coords="1161,796,1282,837"/>
+<area shape="rect" id="node29" href="$cfg__io_8h.html" title="oonf/libconfig/cfg_io.h" alt="" coords="1243,982,1392,1009"/>
+<area shape="rect" id="node27" href="$cfg__db_8h.html" title="oonf/libconfig/cfg_db.h" alt="" coords="1078,893,1231,919"/>
+<area shape="rect" id="node31" href="$netaddr__acl_8h.html" title="oonf/libcommon/netaddr\l_acl.h" alt="" coords="2121,975,2282,1016"/>
+<area shape="rect" id="node32" href="$oonf__socket_8h.html" title="oonf/base/oonf_socket.h" alt="" coords="1841,333,2007,360"/>
+<area shape="rect" id="node38" href="$os__interface_8h.html" title="oonf/base/os_interface.h" alt="" coords="1597,490,1763,517"/>
+<area shape="rect" id="node33" href="$os__fd_8h.html" title="oonf/base/os_fd.h" alt="" coords="1811,408,1938,435"/>
+<area shape="rect" id="node35" href="$oonf__logging_8h.html" title="oonf/libcore/oonf_logging.h" alt="" coords="1586,1071,1763,1098"/>
+<area shape="rect" id="node36" href="$oonf__appdata_8h.html" title="oonf/libcore/oonf_appdata.h" alt="" coords="1785,1243,1967,1269"/>
+<area shape="rect" id="node37" href="$oonf__libdata_8h.html" title="oonf/libcore/oonf_libdata.h" alt="" coords="1534,1243,1709,1269"/>
+<area shape="rect" id="node44" href="$rfc5444__api__config_8h.html" title="oonf/librfc5444/rfc5444\l_api_config.h" alt="" coords="3195,1153,3349,1195"/>
+<area shape="rect" id="node46" href="$bitmap256_8h.html" title="oonf/libcommon/bitmap256.h" alt="" coords="2973,1243,3163,1269"/>
+<area shape="rect" id="node48" href="$rfc5444__tlv__writer_8h.html" title="oonf/librfc5444/rfc5444\l_tlv_writer.h" alt="" coords="2864,1064,3019,1105"/>
+<area shape="rect" id="node50" href="$oonf__subsystem_8h.html" title="oonf/libcore/oonf_subsystem.h" alt="" coords="752,893,952,919"/>
+</map>

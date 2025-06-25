@@ -1,0 +1,7 @@
+<map id="cfg_io" name="cfg_io">
+<area shape="rect" id="node2" href="$structavl__node.html" title="avl_node" alt="" coords="5,106,80,133"/>
+<area shape="rect" id="node6" href="$structavl__tree.html" title="avl_tree" alt="" coords="133,204,201,231"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="150,7,229,33"/>
+<area shape="rect" id="node5" href="$structcfg__schema.html" title="cfg_schema" alt="" coords="235,308,328,335"/>
+<area shape="rect" id="node4" href="$structcfg__db.html" title="cfg_db" alt="" coords="101,397,163,424"/>
+</map>

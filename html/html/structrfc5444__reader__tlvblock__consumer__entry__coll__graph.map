@@ -1,0 +1,6 @@
+<map id="rfc5444_reader_tlvblock_consumer_entry" name="rfc5444_reader_tlvblock_consumer_entry">
+<area shape="rect" id="node2" href="$structlist__entity.html" title="list_entity" alt="" coords="46,7,125,33"/>
+<area shape="rect" id="node4" href="$structavl__node.html" title="avl_node" alt="" coords="101,106,176,133"/>
+<area shape="rect" id="node3" href="$structrfc5444__reader__tlvblock__entry.html" title="rfc5444_reader_tlvblock\l_entry" alt="" coords="101,204,261,245"/>
+<area shape="rect" id="node5" href="$structbitmap256.html" title="bitmap256" alt="" coords="261,106,344,133"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="os_system_netlink" name="os_system_netlink">
+<area shape="rect" id="node2" href="$structautobuf.html" title="autobuf" alt="" coords="5,799,71,825"/>
+<area shape="rect" id="node3" href="$structlist__entity.html" title="list_entity" alt="" coords="868,7,947,33"/>
+<area shape="rect" id="node5" href="$structavl__node.html" title="avl_node" alt="" coords="507,106,582,133"/>
+<area shape="rect" id="node6" href="$structoonf__timer__class.html" title="oonf_timer_class" alt="" coords="147,308,268,335"/>
+<area shape="rect" id="node8" href="$structcfg__schema__section.html" title="cfg_schema_section" alt="" coords="692,680,835,707"/>
+<area shape="rect" id="node11" href="$structavl__tree.html" title="avl_tree" alt="" coords="693,204,761,231"/>
+<area shape="rect" id="node13" href="$structcfg__schema.html" title="cfg_schema" alt="" coords="861,308,954,335"/>
+<area shape="rect" id="node17" href="$structoonf__socket__entry.html" title="oonf_socket_entry" alt="" coords="1072,106,1201,133"/>
+<area shape="rect" id="node4" href="$structoonf__timer__instance.html" title="oonf_timer_instance" alt="" coords="145,204,283,231"/>
+<area shape="rect" id="node7" href="$structoonf__subsystem.html" title="oonf_subsystem" alt="" coords="419,799,537,825"/>
+<area shape="rect" id="node9" href="$structcfg__named__section.html" title="cfg_named_section" alt="" coords="596,576,731,603"/>
+<area shape="rect" id="node10" href="$structcfg__section__type.html" title="cfg_section_type" alt="" coords="680,487,801,513"/>
+<area shape="rect" id="node14" href="$structcfg__schema__entry.html" title="cfg_schema_entry" alt="" coords="705,799,835,825"/>
+<area shape="rect" id="node12" href="$structcfg__db.html" title="cfg_db" alt="" coords="761,397,822,424"/>
+<area shape="rect" id="node15" href="$structcfg__schema__entry__key.html" title="cfg_schema_entry_key" alt="" coords="379,680,537,707"/>
+<area shape="rect" id="node16" href="$structconst__strarray.html" title="const_strarray" alt="" coords="561,680,667,707"/>
+<area shape="rect" id="node18" href="$structos__fd.html" title="os_fd" alt="" coords="1256,7,1311,33"/>
+</map>

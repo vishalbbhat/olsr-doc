@@ -1,0 +1,5 @@
+<map id="avl_comp_netaddr" name="avl_comp_netaddr">
+<area shape="rect" id="node2" href="$neighbor-graph_8h.html#abf3949aafc21bc6f2b040114227375fa" title="mpr_init_neighbor_graph" alt="" coords="181,13,344,39"/>
+<area shape="rect" id="node4" href="$nhdp__db_8h.html#ad341ab7a5dedd83fd15e0e0af0244acf" title="nhdp_db_neighbor_add" alt="" coords="185,63,340,90"/>
+<area shape="rect" id="node3" href="$neighbor-graph-flooding_8h.html#a4f72c5dd647ff97fe54b8c16ba5b1dfe" title="mpr_calculate_neighbor\l_graph_flooding" alt="" coords="392,5,551,47"/>
+</map>
